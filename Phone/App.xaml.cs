@@ -9,12 +9,13 @@
     To see all Code Samples for Windows Phone, visit http://go.microsoft.com/fwlink/?LinkID=219604 
   
 */
+
 using System.Windows;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace sdkToastNotificationCS
+namespace PushNotificationsTests
 {
     public partial class App : Application
     {

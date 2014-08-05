@@ -9,9 +9,10 @@
     To see all Code Samples for Windows Phone, visit http://go.microsoft.com/fwlink/?LinkID=219604 
   
 */
+
 using Microsoft.Phone.Controls;
 
-namespace sdkToastNotificationCS
+namespace PushNotificationsTests
 {
     public partial class Page2 : PhoneApplicationPage
     {

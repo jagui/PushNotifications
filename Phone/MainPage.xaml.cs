@@ -9,15 +9,16 @@
     To see all Code Samples for Windows Phone, visit http://go.microsoft.com/fwlink/?LinkID=219604 
   
 */
+
 using System;
+using System.Text;
 using System.Windows;
 using System.Windows.Input;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Notification;
-using System.Text;
 using Microsoft.Phone.Tasks;
 
-namespace sdkToastNotificationCS
+namespace PushNotificationsTests
 {
     public partial class MainPage : PhoneApplicationPage
     {

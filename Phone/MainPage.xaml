@@ -9,7 +9,7 @@
     To see all Code Samples for Windows Phone, visit http://go.microsoft.com/fwlink/?LinkID=219604
 -->
 <phone:PhoneApplicationPage 
-    x:Class="sdkToastNotificationCS.MainPage"
+    x:Class="PushNotificationsTests.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"

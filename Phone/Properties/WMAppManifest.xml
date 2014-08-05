@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
-  <DefaultLanguage xmlns="" code="" />
-  <App xmlns="" ProductID="{bdff2541-17d4-4929-b84e-d7dff433fd73}" Title="sdkToastNotificationCS" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="sdkToastNotificationCS author" Description="Sample description" Publisher="sdkToastNotificationCS" PublisherID="{1c2336f5-8705-4e76-86e0-1ff2279b696c}">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{bdff2541-17d4-4929-b84e-d7dff433fd73}" Title="PushNotificationsTests" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="sdkToastNotificationCS author" Description="Sample description" Publisher="sdkToastNotificationCS" PublisherID="{1c2336f5-8705-4e76-86e0-1ff2279b696c}">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_IDENTITY_DEVICE" />
